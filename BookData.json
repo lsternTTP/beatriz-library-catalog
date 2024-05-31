@@ -1,0 +1,94 @@
+{
+  "catalog": [
+    {
+      "id": 1,
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A totalitarian government controls everything in an imagined future. When a government worker starts to think for himself, he faces dire consequences.",
+      "published": 1977,
+      "language": "English",
+      "img": "src/img/1984.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "American Primitive",
+      "author": "Mary Oliver",
+      "description": "Oliver’s visionary poems explore wildness and wilderness in humans and in nature.",
+      "published": 1983,
+      "language": "English",
+      "img": "src/img/american-primitive.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "The Color Purple",
+      "author": "Alice Walker",
+      "description": "Letters between two sisters, one a missionary in Africa, and the other trapped in an abusive marriage in Georgia, shed light on the lived experience of rural African American women.",
+      "published": 1982,
+      "language": "English",
+      "img": "src/img/the-color-purple.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "The God of Small Things",
+      "author": "Arundhati Roy",
+      "description": "In 1960s India, the lives of affluent twins Rahel and Estha are irreversibly changed upon the arrival of their English cousin.",
+      "published": 1997,
+      "language": "English",
+      "img": "src/img/the-god-of-small-things.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Our Migrant Souls: A Meditation on Race and the Meanings and Myths of “Latino”",
+      "author": "Héctor Tobar",
+      "description": "By the Pulitzer Prize – winning writer about the twenty-first-century Latino experience and identity. A  personal exploration.",
+      "published": 2023,
+      "language": "English",
+      "img": "src/img/our-migrant-souls.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "description": "Arthur Dent and Ford Prefect set off on an interplanetary odyssey after the Earth is demolished to make way for an intergalactic freeway in this offbeat comedy.",
+      "published": 2023,
+      "language": "English",
+      "img": "src/img/the-hitchhikers-guide-to-the-galaxy.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Into Thin Air: A Personal Account of the Mt. Everest Disaster",
+      "author": "Jon Krakauer",
+      "description": "A first-hand account of the 1996 Mount Everest disaster, in which four expedition teams were trapped by a deadly storm.",
+      "published": 1997,
+      "language": "English",
+      "img": "src/img/into-thin-air.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "description": "This pinnacle of magical realism chronicles 100 years and seven generations of the Buendía family in the mythical South American town of Macondo.",
+      "published": 1967,
+      "language": "Spanish",
+      "img": "src/img/one-hundred-years-of-solitude.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Parable of the Sower",
+      "author": "Octavia E. Butler",
+      "description": "Set in a bleak near-future California, 18-year-old Lauren suffers from hyperempathy—she feels others' pain as well as her own.",
+      "published": 1993,
+      "language": "English",
+      "img": "src/img/parable-of-the-sower.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Ceremony",
+      "author": "Leslie Marmon Silko",
+      "description": "Set on an Indian reservation after World War II and the return home of Tayo, a war-weary Laguna Pueblo young man. While other returning soldiers find easy refuge in alcohol and senseless violence, Tayo searches comfort in his heritage, traditions, and the ancient stories of his people.",
+      "published": 1977,
+      "language": "English",
+      "img": "src/img/ceremony.jpeg"
+    }
+  ]
+}

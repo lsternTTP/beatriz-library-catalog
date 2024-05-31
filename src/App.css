@@ -1,0 +1,98 @@
+
+
+.container{
+  
+  background-image:url("src/img/silver-background.jpeg" );
+
+  
+  
+    }
+h1{
+
+font-size:45px;
+  text-align:center;
+  color:#f1e9e9;
+  text-shadow:2px 2px 3px #1c1c1c;
+  margin-bottom:0px;
+  padding-bottom:0px;
+  margin-top:0px;
+  padding-top:0px;
+}
+
+nav{
+  display:flex;
+  flex-direction:column;
+  height:150px;
+  background-image:url(src/img/Ancient-Library.jpg);
+  background-size:cover;
+  margin-top:0;
+  padding-top:0;
+  
+}
+ul {
+  display: flex;
+  list-style-type: none;
+  flex-direction: row;
+
+  justify-content: space-around;
+margin-top:0;
+  padding-top:0;
+
+}
+li{
+  color:white;
+  font-size:30px;
+  font-weight:bold;
+  margin-top: 20px;
+}
+#books-and-requests{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  flex-direction:row;
+  /* margin:20px; */
+  justify-content:space-around;
+ 
+  
+}
+@media screen and (min-width: 600px) {
+ AllBooks {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    flex-direction:row;
+   
+   
+  }
+  .book-card {
+     /* display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;  */
+    height:220px;
+    width:30vw;
+   box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    margin:20px;
+    /* background-color: #d5dfe2; 
+    border: 4px double  #1c1c1c;
+    padding: 20px;
+    border-radius:20px; */ 
+     word-wrap: break-word;
+    font-size:0px;
+  }
+  .book-card:hover {
+    height:400px;
+    background-color:#eef6fb;
+    font-size:12px;
+    border: 4px double  #1c1c1c;
+    padding: 20px;
+    border-radius:20px;
+  }
+  
+  .book-cover{
+    max-height:50%;
+  }
+  /* SearchBar{
+    width:200px;
+  } */
+}
+#replit-bar{
+  height:5px;
+}

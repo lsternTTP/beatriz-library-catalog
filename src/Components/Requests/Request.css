@@ -1,0 +1,40 @@
+#all-requests-list {
+  width: 20vw;
+  border: 3px double #2d2d2e ;
+  border-radius:10px;
+  position:relative;
+}
+ #request {
+   color:#5a636c;
+
+   text-align:center;
+   
+} 
+
+.request-card {
+  border: 2px solid #252528;
+  padding: 20px;
+  margin: 10px;
+  background-color: #a9c2d0;
+  border-radius: 10px;
+}
+#image-request-card{
+  width:50%;
+}
+#request-title{
+  color: black;
+  font-weight:bold;
+  text-align:center;
+}
+#delete-button{
+  background-color: #e7363f;
+  border: 2px solid #252528;
+  border-radius: 10px;
+  
+  font-weight:bold;
+  align:center;
+}
+#delete-button:hover{
+  scale:1.1;
+  background-color:#eaaeb1;
+}

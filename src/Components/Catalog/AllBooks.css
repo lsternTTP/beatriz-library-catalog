@@ -1,0 +1,19 @@
+/* #all-books-list {
+  background-color: lightblue;
+  width: 70vw;
+} */
+#all-books-list {
+
+  width: 70vw;
+}
+@media screen and (min-width: 600px) {
+  #all-books-list {
+    width:60vw;
+display:grid;
+    grid-template-columns: 1fr;
+   
+  }
+  .book-cover:30%;
+}
+
+  } 
